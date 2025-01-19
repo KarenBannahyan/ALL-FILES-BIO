@@ -11,3 +11,5 @@ Weak Projects:
 4. Password-Checker-C- (Public) - C++ Console Password Checker Application 
 5. First-Rust-Program (Public) - Nostalgic Console Application
 6. My-first-heavy-file (Public) - Client Server Application (First)
+
+References (Soon)
