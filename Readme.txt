@@ -2,7 +2,7 @@ Strong Projects:
 1. Python Mega Project (Private) - Python GUI Client Server Application | High Security - Cryptography, IV | Screen Sharing, FTP, Chat, User Monitoring | Mysql Database support
 2. Helpher -ALPHA- (Public) (Encrypted zip) - Python GUI Helper Application | Gives opportunity to encode files and decode by given key, support client-server between users, PortScanner, DoS (Only for fun), URL Checker, WiFi scanner, Datavase Scanner
 3. Beta 2.0 (Public) - C# Helper Programm (My Idea) | Many Many Tools
-4. Language Learn Simple Application - Pythun GUI Application | You can write words, save words in simple txt format, delete words and run quiz to check your knoledge
+4. Language Learn Application - Pythun GUI Application | Have many functions and tested with Chat-GPT 4-pro
 
 Weak Projects:
 1. FTP-Client-Server (Public) - Python GUI Application For Sending And Saving Photos 
