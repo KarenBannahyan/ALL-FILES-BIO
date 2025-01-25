@@ -1,17 +1,15 @@
-Modern and Strong Projects:
-1. Language Learn Application (Private)- Pythun GUI Application | Photos of this project is in this repository
-
 Strong Projects:
-1. Python Mega Project (Private) - Python GUI Client Server Application | High Security - Cryptography, IV | Screen Sharing, FTP, Chat, User Monitoring | Mysql Database support
-2. Helpher -ALPHA- (Public) (Encrypted zip) - Python GUI Helper Application | Gives opportunity to encode files and decode by given key, support client-server between users, PortScanner, DoS (Only for fun), URL Checker, WiFi scanner, Datavase Scanner
-3. Beta 2.0 (Public) - C# Helper Programm (My Idea) | Many Many Tools
+1. Language Learn Application - CustomTkinter GUI Application for language learning | https://github.com/KarenBannahyan/Learn-Languages
+1. Python Client-Server helper with Screen-Share - Python GUI Application with HIGH SECURITY, Crypthography and IV | https://github.com/KarenBannahyan/MegaProject-1
+2. Helpher -ALPHA- (Encrypted zip) - Python GUI Pentesting Application | https://github.com/KarenBannahyan/Helper-ALPHA-  
+3. Beta 2.0 - C# Helper CMD Programm | https://github.com/KarenBannahyan/beta-2.0
 
 Weak Projects:
 1. FTP-Client-Server (Public) - Python GUI Application For Sending And Saving Photos 
-2. Wikipedia (Public) - Python GUI Wikipedia API Application
-3. Helper-ZN-CH- (Public) - Python Console Chinese Study Application 
-4. Password-Checker-C- (Public) - C++ Console Password Checker Application 
-5. First-Rust-Program (Public) - Nostalgic Console Application
-6. My-first-heavy-file (Public) - Client Server Application (First)
+2. Wikipedia API - Python GUI Wikipedia API Application
+3. Helper-ZN-CH- - Python Console Chinese Study Application 
+4. Password-Checker-C- - C++ Console Passwords Strength Checker Application 
+5. First-Rust-Program - Nostalgic Console Application
+6. My-first-heavy-file - Client Server GUI Application (GUI only for client)
 
 References (Soon)
